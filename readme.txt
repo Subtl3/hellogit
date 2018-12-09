@@ -1,1 +1,1 @@
-zmiana readme nr5
+oto najfajniejszy readme EVER!
