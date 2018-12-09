@@ -61,4 +61,4 @@ PublishScripts/
 # Others
 *.publishsettings
 
-file.txt
+*
