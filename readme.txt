@@ -1,3 +1,4 @@
-<<<<<<< HEAD
-
->>>>>>> parent of 9c5fc8b... dodanie tekstu do readme
+to jest moje readme file
+bla bla bla
+123123
+qweqwe
